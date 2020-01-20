@@ -29,6 +29,8 @@ Make sure to have geckodriver.exe installed in your working directory if on wind
 
 This only works on windows but you can change the geckodriver variable to make it work on any other os.
 
+If you are an employer and would like to see this code working, please send me an email at aferrei3@binghamton.edu and I'd be more than happy to send you a video of it.
+
 
 Hope you enjoy!
 
