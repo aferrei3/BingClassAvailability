@@ -25,6 +25,10 @@ USERNAME = 'your-username'
 
 PASSWORD = 'your-password'
 
+Make sure to have geckodriver.exe installed in your working directory if on windows
+
+This only works on windows but you can change the geckodriver variable to make it work on any other os.
+
 
 Hope you enjoy!
 
