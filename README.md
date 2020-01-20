@@ -11,6 +11,7 @@ In the init.txt file put the term for which you want to check on the first line 
 For example if you wanted to check Taekwondo for the spring 2020 semester your init.tx would look like this
 
 SPRING 2020
+
 HWS 110
 
 In the occreds.py file you simply put your username and password as variables in the following format
